@@ -1,0 +1,23 @@
+ *{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+ }
+
+
+ .app{
+  min-height: 100vh;
+  display: grid;
+  background-image: url(./assets/sunny.jpeg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+ }
+
+ .container{
+  width: 100%;
+  height: 100%;
+  background-color: black; 
+  opacity: .5;
+ }
+ 
